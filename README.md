@@ -1,1 +1,1 @@
- Bridal-Parlour-YCH-https://bridal-parlour.netlify.app/
+ Bridal-Parlour-https://bridal-parlour.netlify.app/
